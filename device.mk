@@ -136,6 +136,10 @@ PRODUCT_PACKAGES += \
     fingerprint.msm8994 \
     fingerprintd
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
+
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8994 \
